@@ -7,7 +7,7 @@
 - 🗒 I have two Telegram channels: [personal](https://t.me/baratovCh) and [Thirty Teslas to Musk](https://t.me/thirty_teslas_to_Musk)
 - 🌎 I like to travel but was only in this countries: 🇹🇯🇷🇺🇹🇷🇺🇿
 
-### Connect with me:
+### 📱 Connect with me:
 
 [<img align="left" alt="@imbaratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/imbaratov/)
 [<img align="left" alt="@imbaratov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/imbaratov)
@@ -16,7 +16,7 @@
 
 <br />
 
-### Language and Tools:
+### 🛠 Language and Tools:
 <img align="left" alt="Android" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
 <img align="left" alt="Android Studio" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Breezeicons-apps-48-android-studio.svg/1200px-Breezeicons-apps-48-android-studio.svg.png" />
 <img align="left" alt="Gradle" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain.svg" />
@@ -34,7 +34,7 @@
 
 <br />
 
-### Latest Blog posts
+### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Epic Games против монополии](https://baratov.pro/games/epic-games-protiv-monopolii/?utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii&utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii)
 - [Беларусь и интернет](https://baratov.pro/technologies/belarus-i-internet/?utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet&utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet)
@@ -42,3 +42,9 @@
 - [Массовый SCAM верифицированных профилей в Twitter](https://baratov.pro/media/massovyj-scam-verificirovannyh-profilej-v-twitter/?utm_source=rss&utm_medium=rss&utm_campaign=massovyj-scam-verificirovannyh-profilej-v-twitter&utm_source=rss&utm_medium=rss&utm_campaign=massovyj-scam-verificirovannyh-profilej-v-twitter)
 - [Некстген в каррентгене. Обзор The Last of Us Part 2](https://baratov.pro/games/nekstgen-v-karrentgene-obzor-the-last-of-us-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=nekstgen-v-karrentgene-obzor-the-last-of-us-part-2&utm_source=rss&utm_medium=rss&utm_campaign=nekstgen-v-karrentgene-obzor-the-last-of-us-part-2)
 <!-- BLOG-POST-LIST:END -->
+
+<br />
+
+### Statistics
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=imbaratov)](https://github.com/imbaratov)
