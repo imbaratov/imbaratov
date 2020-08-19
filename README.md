@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on several projects, writing some posts in my [website](https://baratov.pro/)
 - 🌱 I’m currently learning Kotlin and improving skills in Java
-- 🤔 I’m looking for help with ...
 - 🗒 I have two Telegram channels: [personal](https://t.me/baratovCh) and [Thirty Teslas to Musk](https://t.me/thirty_teslas_to_Musk)
 - 🌎 I like to travel but was only in this countries: 🇹🇯🇷🇺🇹🇷🇺🇿
 
