@@ -1,4 +1,5 @@
-### Hi there, my name is Akram - aka [imbaratov][https://baratov.pro] 👋
+### Hi there, my name is Akram👋
+## I'm android developer, working in [Colibri](https://colibri.tj)
 
 Here are some ideas to get you started:
 
