@@ -32,3 +32,6 @@
 <img align="left" alt="Wordpress" width="24px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" />
 <img align="left" alt="GIT" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
