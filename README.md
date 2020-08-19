@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**imbaratov/imbaratov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, my name is Akram - aka [imbaratov][https://baratov.pro] 👋
 
 Here are some ideas to get you started:
 
