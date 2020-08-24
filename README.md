@@ -35,11 +35,11 @@
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Шумиха вокруг “Pillars of Success” в сети](https://baratov.pro/media/shumiha-vokrug-pillars-of-success-v-seti/?utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti&utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti)
 - [Epic Games против монополии](https://baratov.pro/games/epic-games-protiv-monopolii/?utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii&utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii)
 - [Беларусь и интернет](https://baratov.pro/technologies/belarus-i-internet/?utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet&utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet)
 - [Оружие вместо палочек в “Гарри Поттере”](https://baratov.pro/movies-and-shows/oruzhie-vmesto-palochek-v-garri-pottere/?utm_source=rss&utm_medium=rss&utm_campaign=oruzhie-vmesto-palochek-v-garri-pottere&utm_source=rss&utm_medium=rss&utm_campaign=oruzhie-vmesto-palochek-v-garri-pottere)
 - [Массовый SCAM верифицированных профилей в Twitter](https://baratov.pro/media/massovyj-scam-verificirovannyh-profilej-v-twitter/?utm_source=rss&utm_medium=rss&utm_campaign=massovyj-scam-verificirovannyh-profilej-v-twitter&utm_source=rss&utm_medium=rss&utm_campaign=massovyj-scam-verificirovannyh-profilej-v-twitter)
-- [Некстген в каррентгене. Обзор The Last of Us Part 2](https://baratov.pro/games/nekstgen-v-karrentgene-obzor-the-last-of-us-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=nekstgen-v-karrentgene-obzor-the-last-of-us-part-2&utm_source=rss&utm_medium=rss&utm_campaign=nekstgen-v-karrentgene-obzor-the-last-of-us-part-2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
