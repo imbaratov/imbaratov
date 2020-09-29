@@ -35,11 +35,11 @@
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Как не стоит делать свой сайт будучи мобильным оператором](https://baratov.pro/media/kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom/?utm_source=rss&utm_medium=rss&utm_campaign=kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom&utm_source=rss&utm_medium=rss&utm_campaign=kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom)
 - [“Fitbit в черепе” или как прошла презентация Neuralink](https://baratov.pro/technologies/fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink/?utm_source=rss&utm_medium=rss&utm_campaign=fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink&utm_source=rss&utm_medium=rss&utm_campaign=fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink)
 - [Шумиха вокруг “Pillars of Success” в сети](https://baratov.pro/media/shumiha-vokrug-pillars-of-success-v-seti/?utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti&utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti)
 - [Epic Games против монополии](https://baratov.pro/games/epic-games-protiv-monopolii/?utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii&utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii)
 - [Беларусь и интернет](https://baratov.pro/technologies/belarus-i-internet/?utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet&utm_source=rss&utm_medium=rss&utm_campaign=belarus-i-internet)
-- [Оружие вместо палочек в “Гарри Поттере”](https://baratov.pro/movies-and-shows/oruzhie-vmesto-palochek-v-garri-pottere/?utm_source=rss&utm_medium=rss&utm_campaign=oruzhie-vmesto-palochek-v-garri-pottere&utm_source=rss&utm_medium=rss&utm_campaign=oruzhie-vmesto-palochek-v-garri-pottere)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
