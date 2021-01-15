@@ -35,11 +35,11 @@
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Cyberpunk 2077. Рефанд и баги](https://brtv.pro/games/cyberpunk-2077-refand-i-bagi/?utm_source=rss&utm_medium=rss&utm_campaign=cyberpunk-2077-refand-i-bagi&utm_source=rss&utm_medium=rss&utm_campaign=cyberpunk-2077-refand-i-bagi)
 - [Я – это ты, а ты – это я. Обзор игры Persona 5 Royal](https://brtv.pro/games/ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal/?utm_source=rss&utm_medium=rss&utm_campaign=ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal&utm_source=rss&utm_medium=rss&utm_campaign=ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal)
 - [Как не стоит делать свой сайт будучи мобильным оператором](https://brtv.pro/media/kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom/?utm_source=rss&utm_medium=rss&utm_campaign=kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom&utm_source=rss&utm_medium=rss&utm_campaign=kak-ne-stoit-delat-svoj-sajt-buduchi-mobilnym-operatorom)
 - [“Fitbit в черепе” или как прошла презентация Neuralink](https://brtv.pro/technologies/fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink/?utm_source=rss&utm_medium=rss&utm_campaign=fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink&utm_source=rss&utm_medium=rss&utm_campaign=fitbit-v-cherepe-ili-kak-proshla-prezentacija-neuralink)
 - [Шумиха вокруг “Pillars of Success” в сети](https://brtv.pro/media/shumiha-vokrug-pillars-of-success-v-seti/?utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti&utm_source=rss&utm_medium=rss&utm_campaign=shumiha-vokrug-pillars-of-success-v-seti)
-- [Epic Games против монополии](https://brtv.pro/games/epic-games-protiv-monopolii/?utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii&utm_source=rss&utm_medium=rss&utm_campaign=epic-games-protiv-monopolii)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
