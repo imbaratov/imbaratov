@@ -35,11 +35,11 @@
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [«Когда картины оживают». Краткий обзор Concrete Genie](https://brtv.pro/games/kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie/?utm_source=rss&utm_medium=rss&utm_campaign=kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie&utm_source=rss&utm_medium=rss&utm_campaign=kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie)
 - [Нетипичная история любви, или какая гадость этот ваш российский кинематограф](https://brtv.pro/movies-and-shows/netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf/?utm_source=rss&utm_medium=rss&utm_campaign=netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf&utm_source=rss&utm_medium=rss&utm_campaign=netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf)
 - [«Душная» Душа. Обзор на самое посредственное творение студии Pixar.](https://brtv.pro/movies-and-shows/dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar/?utm_source=rss&utm_medium=rss&utm_campaign=dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar&utm_source=rss&utm_medium=rss&utm_campaign=dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar)
 - [Разочарование ли? Коротко о Disenchantment](https://brtv.pro/movies-and-shows/razocharovanie-li-korotko-o-disenchantment/?utm_source=rss&utm_medium=rss&utm_campaign=razocharovanie-li-korotko-o-disenchantment&utm_source=rss&utm_medium=rss&utm_campaign=razocharovanie-li-korotko-o-disenchantment)
 - [Cyberpunk 2077. Рефанд и баги](https://brtv.pro/games/cyberpunk-2077-refand-i-bagi/?utm_source=rss&utm_medium=rss&utm_campaign=cyberpunk-2077-refand-i-bagi&utm_source=rss&utm_medium=rss&utm_campaign=cyberpunk-2077-refand-i-bagi)
-- [Я – это ты, а ты – это я. Обзор игры Persona 5 Royal](https://brtv.pro/games/ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal/?utm_source=rss&utm_medium=rss&utm_campaign=ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal&utm_source=rss&utm_medium=rss&utm_campaign=ja-jeto-ty-a-ty-jeto-ja-obzor-igry-persona-5-royal)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
