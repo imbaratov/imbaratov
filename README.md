@@ -1,17 +1,16 @@
 ## Hi there, my name is Akram - aka @imbaratov👋
-### I'm android developer and work in [Colibri](https://colibri.tj)
+### I'm android developer in [livo.dev](https://livo.tj)
 
-- 🔭 I’m currently working on several projects, writing some posts in my [website](https://baratov.pro/)
-- 🌱 I’m currently learning Kotlin and improving skills in Java
-- 🗒 I have two Telegram channels: [personal](https://t.me/baratovCh) and [Thirty Teslas to Musk](https://t.me/thirty_teslas_to_Musk)
-- 🌎 I like to travel but was only in this countries: 🇹🇯🇷🇺🇹🇷🇺🇿
+- 🧑‍💻 working on [dono](http://dono.live) and [Releese](https://releese.app/)
+- ✍️ writing posts in my [telegram channel](https://t.me/BrtvCh)
+- 🌱 learning Kotlin and improving skills in Java
+- 🌏 from Dushanbe, Tajikistan
 
 ### 📱 Connect with me:
 
 [<img align="left" alt="@imbaratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/imbaratov/)
 [<img align="left" alt="@imbaratov | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/twitter.svg" />](https://twitter.com/imbaratov)
 [<img align="left" alt="@imbaratov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />](https://www.instagram.com/akram_baratov/)
-[<img align="left" alt="@imbaratov | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />](https://www.facebook.com/akram.baratov/)
 
 <br />
 
@@ -46,4 +45,4 @@
 
 ### Statistics
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=imbaratov)](https://github.com/imbaratov)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=imbaratov&count_private=true&title_color=007AFF&bg_color=25262B&icon_color=007AFF&show_icons=true&text_color=FFFFFF&include_all_commits=true)
