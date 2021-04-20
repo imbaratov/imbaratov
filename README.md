@@ -1,5 +1,5 @@
 ## Hi there, my name is Akram - aka @imbaratov👋
-### I'm android developer in [livo.dev](https://livo.tj)
+### I'm android developer
 
 - 🧑‍💻 working on [dono](http://dono.live) and [Releese](https://releese.app/)
 - ✍️ writing posts in my [telegram channel](https://t.me/BrtvCh)
