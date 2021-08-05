@@ -34,11 +34,11 @@
 
 ### 📚 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Такси – это для души, а так я автор на brtv](https://brtv.pro/movies-and-shows/taksi-jeto-dlja-dushi-a-tak-ja-avtor-na-brtv/?utm_source=rss&utm_medium=rss&utm_campaign=taksi-jeto-dlja-dushi-a-tak-ja-avtor-na-brtv&utm_source=rss&utm_medium=rss&utm_campaign=taksi-jeto-dlja-dushi-a-tak-ja-avtor-na-brtv)
 - [Маленькая хозяйка большого дома. Когда любовь оказалась важнее работы](https://brtv.pro/knigi/malenkaja-hozjajka-bolshogo-doma-kogda-ljubov-okazalas-vazhnee-raboty/?utm_source=rss&utm_medium=rss&utm_campaign=malenkaja-hozjajka-bolshogo-doma-kogda-ljubov-okazalas-vazhnee-raboty&utm_source=rss&utm_medium=rss&utm_campaign=malenkaja-hozjajka-bolshogo-doma-kogda-ljubov-okazalas-vazhnee-raboty)
 - [«Когда картины оживают». Краткий обзор Concrete Genie](https://brtv.pro/games/kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie/?utm_source=rss&utm_medium=rss&utm_campaign=kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie&utm_source=rss&utm_medium=rss&utm_campaign=kogda-kartiny-ozhivajut-kratkij-obzor-concrete-genie)
 - [Нетипичная история любви, или какая гадость этот ваш российский кинематограф](https://brtv.pro/movies-and-shows/netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf/?utm_source=rss&utm_medium=rss&utm_campaign=netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf&utm_source=rss&utm_medium=rss&utm_campaign=netipichnaja-istorija-ljubvi-ili-kakaja-gadost-jetot-vash-rossijskij-kinematograf)
 - [«Душная» Душа. Обзор на самое посредственное творение студии Pixar.](https://brtv.pro/movies-and-shows/dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar/?utm_source=rss&utm_medium=rss&utm_campaign=dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar&utm_source=rss&utm_medium=rss&utm_campaign=dushnaja-dusha-obzor-na-samoe-posredstvennoe-tvorenie-studii-pixar)
-- [Разочарование ли? Коротко о Disenchantment](https://brtv.pro/movies-and-shows/razocharovanie-li-korotko-o-disenchantment/?utm_source=rss&utm_medium=rss&utm_campaign=razocharovanie-li-korotko-o-disenchantment&utm_source=rss&utm_medium=rss&utm_campaign=razocharovanie-li-korotko-o-disenchantment)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
