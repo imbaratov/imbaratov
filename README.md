@@ -1,7 +1,7 @@
 ## Hi there, my name is Akram - aka @imbaratov👋
-### I'm 24 y.o. android developer
+### I'm 25 y.o. android developer
 
-- 🧑‍💻 working in [ONDOC](https://ondoc.app/)
+<!-- - 🧑‍💻 working in [ONDOC](https://ondoc.app/) -->
 - ✍️ writing posts in my [telegram channel](https://t.me/krmysli)
 - 🌱 learning Kotlin and improving skills in Java
 - 🌏 from Dushanbe, Tajikistan
