@@ -3,10 +3,12 @@
 ## Hi there, my name is Akram 👋
 ### I'm 27 y.o. android developer
 
-- 🧑‍💻 working in [Owner.One](https://owner.one/)
-- 🌱 learning Kotlin and improving skills in Java
+- 📍 based in Yerevan, Armenia
 - 🌏 from Dushanbe, Tajikistan
+- 🧑‍💻 Currently at [Owner.One](https://owner.one/)
 
 ### 📱 Connect with me:
 
-[<img align="left" alt="@imbaratov | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/telegram.svg" />](https://t.me/imbaratov/)
+
+[LinkedIn](https://linkedin.com/in/akram-baratov/)
+[Telegram](https://t.me/imbaratov/)
